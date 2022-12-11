@@ -64,7 +64,7 @@ t_form = fitgeotrans(cor2(:,1:2),cor1(:,1:2),trans_form);
 solution_t = solution_t...
     *[1,0,0;0,1,0;-dX,-dY,1]*(t_form.T)*[1,0,0;0,1,0;dX,dY,1];
 if k~=iter
-    [I1,I2,dX,dY] = Transform_temp(I1,I2,solution_t);
+    [I1,I2,dX,dY] = Transform_temp(I1_o,I2_o,solution_t);
     figure,imshow(I1/2+I2/2,[]);
 end
 end
