@@ -73,7 +73,7 @@ if k~=iter
     Show_Matches(I1,I2,cor1,cor2,1);pause(0.01)
     solution_t = solution_t...
     *[1,0,0;0,1,0;-dX,-dY,1]*(t_form.T)*[1,0,0;0,1,0;dX,dY,1];
-    [I1,I2,dX,dY] = Transform_temp(I1,I2,solution_t);
+    [I1,I2,dX,dY] = Transform_temp(I1_o,I2_o,solution_t);
     figure,imshow(I1/2+I2/2,[]);
 else
     cor1(:,1) = (cor1(:,1)+dX)/resample1(2); cor1(:,2) = (cor1(:,2)+dY)/resample1(1);
