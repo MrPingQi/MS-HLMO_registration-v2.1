@@ -6,3 +6,7 @@ If you have any queries or suggestions, please do not hesitate to contact me (ga
 
 Here's an testing example of my righteous roommate:
 ![image](Righteous_Roommate.jpg)
+
+Newest practical examples of multi-source remote sensing application:
+![image](new_example1.png)
+![image](new_example2.png)
