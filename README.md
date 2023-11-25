@@ -7,7 +7,7 @@ If you have any queries or suggestions, please do not hesitate to contact me (ga
 An image registration software based on MS-HLMO:
 ![image](software.png)
 
-![image](new_example3.png)
+![image](new_example3.jpg)
 
 Here's an testing example of my righteous roommate:
 ![image](Righteous_Roommate.jpg)
