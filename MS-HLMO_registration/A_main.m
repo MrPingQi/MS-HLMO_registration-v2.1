@@ -27,7 +27,7 @@ int_flag = 1; % yes:1, no:0
 %% Is there any obvious rotation difference
 rot_flag = 1;
 %% Is there any obvious scale difference
-scl_flag = 0;
+scl_flag = 1;
 %% Do you want parallel computing in multi-scale strategy
 par_flag = 1;
 %% What kind of feature point do you want as the keypoint
@@ -37,15 +37,15 @@ key_type = 'ShiTomasi';
 % key_type = 'PC-ShiTomasi';
 %% What spatial transformation model do you need at the end
 % trans_form = 'similarity';
-% trans_form = 'affine';
-trans_form = 'projective';
+trans_form = 'affine';
+% trans_form = 'projective';
 % trans_form = 'polynomial';
 poly_order = 2;
 %% What image pair output form do you need at the end
 % out_form = 'Reference';
-% out_form = 'Union';
+out_form = 'Union';
 % out_form = 'Inter';
-out_form = 'Geo';
+% out_form = 'Geo';
 %% Do you want the resolution of sensed image be changed to the reference
 chg_scale = 1;
 %% Do you want the visualization of registration results
