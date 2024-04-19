@@ -15,3 +15,6 @@ Here's an testing example of my righteous roommate:
 Newest practical examples of multi-source remote sensing application:
 ![image](new_example1.png)
 ![image](new_example2.png)
+
+Image segmentation based on image registration ~~~ ：
+![image](segmentation_lol.png)
