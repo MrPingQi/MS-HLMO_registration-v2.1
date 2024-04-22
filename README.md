@@ -9,12 +9,12 @@ An image registration software based on MS-HLMO:
 
 ![image](new_example3.jpg)
 
-Here's an testing example of my righteous roommate:
+Here's a testing example of my righteous roommate:
 ![image](Righteous_Roommate.jpg)
 
-Newest practical examples of multi-source remote sensing application:
+Newest practical examples of multi-source remote sensing applications:
 ![image](new_example1.png)
 ![image](new_example2.png)
 
 Image segmentation based on image registration ~~~ ：
-![image](segmentation_lol.png)
+![image](segmentation_lol1.png) ![image](segmentation_lol2.png)
