@@ -17,4 +17,4 @@ Newest practical examples of multi-source remote sensing applications:
 ![image](new_example2.png)
 
 Image segmentation based on image registration ~~~ ：
-![image](segmentation_lol1.png) ![image](segmentation_lol2.png)
+![image](segmentation_lol1.jpg) ![image](segmentation_lol2.jpg)
