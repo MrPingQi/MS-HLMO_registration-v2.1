@@ -2,7 +2,7 @@
 
 An updated and practical version of MS-HLMO
 
-If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com or 3120205425@bit.edu.cn).
+If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com).
 
 An image registration software based on MS-HLMO:
 ![image](software.png)
