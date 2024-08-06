@@ -3,6 +3,7 @@
 An updated and practical version of MS-HLMO
 
 If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com).
+If you are from China, just speak Chinese, its OK~  中国人直接说中文就可以了~
 
 An image registration software based on MS-HLMO:
 ![image](software.png)
