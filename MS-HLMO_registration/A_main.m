@@ -100,10 +100,10 @@ if (exist(save_path,'dir')==0) % If file folder does not exist
 end
 
 %%
-% [image_1,file1,DataInfo1] = Readimage;
-% [image_2,file2,DataInfo2] = Readimage;
-[image_1,~,DataInfo1] = Readimage(file1);
-[image_2,~,DataInfo2] = Readimage(file2);
+[image_1,file1,DataInfo1] = Readimage;
+[image_2,file2,DataInfo2] = Readimage;
+% [image_1,~,DataInfo1] = Readimage(file1);
+% [image_2,~,DataInfo2] = Readimage(file2);
 parameters.DataInfo1 = DataInfo1;
 parameters.DataInfo2 = DataInfo2;
 
